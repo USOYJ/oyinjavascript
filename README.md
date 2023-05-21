@@ -6,3 +6,6 @@ challenge 3 password generator
 <p>This helped me understand Javascript a little more because I had to look on various websites and on youtube to get this done.
 In class I mostly got to see the "var" varible shine but I found out they were more and the 3 most popular are the "Var, let and Const" variable. Also found out about the isNaN funtion which stands for is not a number and what this function does is, it helps to return  "True" if the value is not a number.</p>
 <p>The password generator basically has prompts before it generates a password, these prompts are conditions it has to satisfy before generating the password.</p>
+<p> I was able to understand and fix this code with the help of couple of these websites:
+<a href="https://www.w3schools.com/js/default.asp"> w3schools javascript tutorial</a> and daniel vega on youtube explanation on this homework helped alot <a href="https://www.youtube.com/watch?v=v2jfGo7ztm8"> Password Generator</a>
+</p>
